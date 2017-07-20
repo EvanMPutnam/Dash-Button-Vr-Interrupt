@@ -1,6 +1,6 @@
 """
 Author: Evan Putnam
-Description: Implements a key press of the f1 key to interrupt the htc vive when pressing an amazon dash button.
+Description: Implements a key press of the f1 key that interrupts the htc vive, when pressing an amazon dash button.
 Pre-Reqs: scapy-python3, pyautogui
 
 #pip install scapy-python3
